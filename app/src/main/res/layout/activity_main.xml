@@ -60,7 +60,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Medium Text"
+        android:text="Tip"
         android:id="@+id/tipLabelTextView"
         android:hint="@string/tip"
         android:layout_gravity="right" />
@@ -80,7 +80,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Medium Text"
+        android:text="Total"
         android:id="@+id/totalLabeltextView"
         android:hint="@string/total"
         android:layout_gravity="right" />
